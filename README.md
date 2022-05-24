@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shushuz
 - 👀 I’m interested in learning how to code and transform these codes into usable platforms and services to all 
 - 🌱 I’m currently learning how to build my website using codes (a complete scrub atm HAHA)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on... how to be better scrubs together xD
+- 📫 You can reach me here :)
 
 <!---
 shushuz/shushuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
